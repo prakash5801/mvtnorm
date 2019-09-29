@@ -15,7 +15,7 @@ Authors@R: c(person("Alan", "Genz", role = "aut"),
 Description: Computes multivariate normal and t probabilities, quantiles,
   random deviates and densities.
 Imports: stats, methods
-Depends: R(>= 3.5.0)
+Depends: R(>= 3.4.0)
 License: GPL-2
 URL: http://mvtnorm.R-forge.R-project.org
 NeedsCompilation: yes
